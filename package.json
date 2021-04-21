@@ -5,7 +5,7 @@
   "main": "index.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ridenow-ra/prettier-config-doc.git"
+    "url": "https://github.com/ridenow-ra/prettier-config-doc"
   },
   "author": "",
   "license": "ISC",
