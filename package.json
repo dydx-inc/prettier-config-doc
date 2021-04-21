@@ -5,12 +5,12 @@
   "main": "index.json",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ridenow-ra/prettier-config-dcp.git"
+    "url": "https://github.com/ridenow-ra/prettier-config-doc.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ridenow-ra/prettier-config-dcp/issues"
+    "url": "https://github.com/ridenow-ra/prettier-config-doc/issues"
   },
-  "homepage": "https://github.com/ridenow-ra/prettier-config-dcp#readme"
+  "homepage": "https://github.com/ridenow-ra/prettier-config-doc#readme"
 }
